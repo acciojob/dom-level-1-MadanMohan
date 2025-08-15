@@ -2,4 +2,4 @@
 const level = document.getElementById("level")
 const value = level.textContent.split(" ")
 
-alert(`The level of the element is ${value[1]}`)
+alert(`The level of the element is: ${value[1]}`)
